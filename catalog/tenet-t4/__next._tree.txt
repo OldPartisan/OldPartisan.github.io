@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/1t1hk341eucb5.css","style"]
+:HL["/_next/static/media/612a622d05588ac4-s.p.0u7kop77k5p_2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a678cc2a48e3c6f1-s.p.2mnntz5w7b9l_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e0d4ce99e5a5209f-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e93dad723b20f1c1-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"tenet-t4","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"catalog","h":96,"c":"$Q2"}]]
+0:{"b":"duzd-tr3T_TDA7PR2JPmy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

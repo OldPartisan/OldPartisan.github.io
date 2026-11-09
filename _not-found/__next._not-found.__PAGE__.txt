@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1el8liofhzvj4.js"
+3:I[70119,["$2"],"default"]
+4:I[85259,["$2"],"default"]
+5:I[6388,["$2"],"default"]
+6:I[13020,["$2"],""]
+10:"ViewportBoundary"
+11:I[91223,["$2"],"$10"]
+12:"MetadataBoundary"
+13:I[91223,["$2"],"$12"]
+14:"$Sreact.suspense"
+:HL["/_next/static/chunks/1t1hk341eucb5.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container","style":{"padding":"80px 0 120px","textAlign":"center"},"children":[["$","div",null,{"className":"eyebrow no-rule","style":{"justifyContent":"center"},"children":"404"}],["$","h1",null,{"style":{"fontSize":"clamp(36px,6vw,64px)","margin":"14px 0"},"children":"Такой модели нет"}],["$","p",null,{"className":"muted","style":{"maxWidth":480,"margin":"0 auto 24px"},"children":"Возможно, страница переехала или такой модели нет в каталоге. Вернитесь в каталог — там 44 модели до 3 млн."}],"$Ld"]}],null,"$Le"]}],"p":"$@f","v":null,"s":"$8"}}]]
+9:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1t1hk341eucb5.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1el8liofhzvj4.js","async":true}]],["$","html",null,{"lang":"ru","className":"jbYJPa_variable rktdBW_variable","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Перейти к содержимому"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","div",null,{"className":"container","style":{"padding":"80px 0 120px","textAlign":"center"},"children":[["$","div",null,{"className":"eyebrow no-rule","style":{"justifyContent":"center"},"children":"404"}],["$","h1",null,{"style":{"fontSize":"clamp(36px,6vw,64px)","margin":"14px 0"},"children":"Такой модели нет"}],["$","p",null,{"className":"muted","style":{"maxWidth":480,"margin":"0 auto 24px"},"children":"Возможно, страница переехала или такой модели нет в каталоге. Вернитесь в каталог — там 44 модели до 3 млн."}],["$","$L6",null,{"className":"btn","href":"/catalog","children":"В каталог →"}]]}],[]]}]}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"logo","children":[["$","span",null,{"className":"logo-mark","aria-hidden":"true","children":"中"}],["$","span",null,{"children":["ChinaCars",["$","span",null,{"className":"logo-accent","children":"3M"}],["$","small",null,{"children":"до 3 млн · Россия 2026"}]]}]]}],["$","h3",null,{"className":"mt-16","children":"Китайские автомобили в России"}],["$","p",null,{"children":"Модели до 3 млн ₽: характеристики, отзывы владельцев, сборка, ликвидность и сервисные риски."}]]}],["$","div",null,{"children":[["$","div",null,{"className":"col-title","children":"Разделы"}],["$","$L6",null,{"href":"/catalog","children":"Каталог моделей"}],["$","$L6",null,{"href":"/pick","children":"Подбор и кредит"}],["$","$L6",null,{"href":"/compare","children":"Сравнение"}],["$","$L6",null,{"href":"/production","children":"Производство в РФ"}],["$","$L6",null,{"href":"/article","children":"Разбор 2026"}],["$","$L6",null,{"href":"/article/chinese-vs-used","children":"Китаец или б/у"}]]}],["$","div",null,{"children":[["$","div",null,{"className":"col-title","children":"Данные"}],["$","$L6",null,{"href":"/sources","children":"Источники"}],["$","$L6",null,{"href":"/admin","children":"JSON-конфиг"}],["$","$L6",null,{"href":"/catalog?assembly=full","children":"Сборка РФ"}],["$","$L6",null,{"href":"/catalog?used=1","children":"С пробегом"}]]}],["$","div",null,{"children":[["$","div",null,{"className":"col-title","children":"Дисклеймер"}],["$","p",null,{"children":"Информация носит ознакомительный характер. Цены и комплектации уточняйте у официальных дилеров. Оценки — наше мнение, а не результат опроса."}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© 2026 ChinaCars 3M · данные актуальны на ","31 октября 2026"]}],["$","span",null,{"children":"Не является публичной офертой"}]]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"ChinaCars 3M\",\"url\":\"https://oldpartisan.github.io\",\"description\":\"Сравнение китайских автомобилей до 3 млн рублей: характеристики, отзывы владельцев, производство в России.\",\"inLanguage\":\"ru-RU\",\"dateModified\":\"2026-10-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"ChinaCars 3M\",\"url\":\"https://oldpartisan.github.io\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://oldpartisan.github.io/catalog?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","span",null,{"className":"sr-only","children":["Данные актуальны на ","31 октября 2026"]}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f2efe7"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Китайские автомобили до 3 млн ₽ — сравнение, отзывы и сборка в РФ"}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}],null]}],"$L2a"]}],"p":"$@2b","v":null,"s":"$8"}},"a":"$@2c","u":"$@2d","b":"duzd-tr3T_TDA7PR2JPmy"}
+2e:I[91223,["$2"],"OutletBoundary"]
+30:I[27644,["$2"],"IconMark"]
+d:["$","$L6",null,{"className":"btn","href":"/catalog","children":"В каталог →"}]
+e:["$","$L2e",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
+15:["$","meta","1",{"name":"description","content":"44 модели китайских автомобилей до 3 млн рублей: цены и комплектации, отзывы владельцев, сборка в России, ликвидность и сервисные риски. Данные на октябрь 2026."}]
+16:["$","meta","2",{"name":"author","content":"Редакция ChinaCars 3M"}]
+17:["$","meta","3",{"name":"keywords","content":"китайские автомобили,до 3 млн,сравнение,Haval Jolion,Belgee X50,Chery Tiggo 7 Pro Max,сборка в России,2026"}]
+18:["$","meta","4",{"name":"robots","content":"index, follow"}]
+19:["$","meta","5",{"name":"category","content":"automotive"}]
+1a:["$","link","6",{"rel":"canonical","href":"https://oldpartisan.github.io"}]
+1b:["$","meta","7",{"property":"og:title","content":"Китайские автомобили до 3 млн ₽ — сравнение 2026"}]
+1c:["$","meta","8",{"property":"og:description","content":"44 модели, 6 площадок сборки, отзывы владельцев и оценка рисков. Данные на 31 октября 2026."}]
+1d:["$","meta","9",{"property":"og:site_name","content":"ChinaCars 3M"}]
+1e:["$","meta","10",{"property":"og:locale","content":"ru_RU"}]
+1f:["$","meta","11",{"property":"og:image","content":"https://oldpartisan.github.io/cars/haval-jolion-1.webp"}]
+20:["$","meta","12",{"property":"og:image:width","content":"1000"}]
+21:["$","meta","13",{"property":"og:image:height","content":"600"}]
+22:["$","meta","14",{"property":"og:image:alt","content":"Haval Jolion"}]
+23:["$","meta","15",{"property":"og:type","content":"website"}]
+24:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+25:["$","meta","17",{"name":"twitter:title","content":"Китайские автомобили до 3 млн ₽ — сравнение 2026"}]
+26:["$","meta","18",{"name":"twitter:description","content":"44 модели, отзывы, производство в РФ, ликвидность и сервисные риски."}]
+27:["$","meta","19",{"name":"twitter:image","content":"https://oldpartisan.github.io/cars/haval-jolion-1.webp"}]
+28:["$","link","20",{"rel":"icon","href":"/icon.svg?icon.2p3-csex7me7e.svg","sizes":"any","type":"image/svg+xml"}]
+29:["$","$L30","21",{}]
+2a:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+2f:null
+2d:true
+8:C
+2c:0
+a:"$undefined"
+7:"$undefined"
+2b:"$undefined"
+f:"$undefined"

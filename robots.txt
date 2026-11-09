@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+
+Host: https://oldpartisan.github.io
+Sitemap: https://oldpartisan.github.io/sitemap.xml
